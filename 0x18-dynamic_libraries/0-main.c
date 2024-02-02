@@ -8,6 +8,6 @@
  */
 int main(void)
 {
-    printf("%d\n", size_t_strlen("My Dyn Lib"));
+	printf("%d\n", size_t_strlen("My Dyn Lib"));
     return (EXIT_SUCCESS);
 }
